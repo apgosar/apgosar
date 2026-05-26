@@ -21,3 +21,12 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
           filename: github-metrics.svg
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: apgosar
+          filename: github-metrics-langs.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          config_timezone: Asia/Kolkata
