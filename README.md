@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic header banner using shields + custom styling -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:4f46e5,100:06b6d4&height=200&section=header&text=Ankur%20Gosar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%26%20AI%20Infrastructure%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:4f46e5,100:06b6d4&height=200&section=header&text=Ankur%20Gosar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevOps%20and%20AI%20Infrastructure%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
