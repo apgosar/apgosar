@@ -141,11 +141,11 @@ Led a Proof of Concept to migrate Electronic Design Automation (EDA) workloads t
 
 <div align="center">
 
-![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurgosar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&rank_icon=github)
+![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apgosar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurgosar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apgosar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ankurgosar&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=94a3b8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=apgosar&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=818cf8&currStreakLabel=94a3b8)
 
 </div>
 
