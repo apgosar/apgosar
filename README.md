@@ -142,6 +142,7 @@ Led a Proof of Concept to migrate Electronic Design Automation (EDA) workloads t
 <div align="center">
 
 ![Metrics](./github-metrics.svg)
+![Languages](./github-metrics-langs.svg)
 
 </div>
 
