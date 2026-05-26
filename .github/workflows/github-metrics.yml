@@ -1,8 +1,11 @@
 name: Metrics
 on:
+  push:                # 👈 Add this line temporarily
+    branches: [main]   # 👈 Add this line temporarily
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "23 2 * * *"
   workflow_dispatch:
+
 
 jobs:
   github-metrics:
