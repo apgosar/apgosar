@@ -1,11 +1,14 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -14,3 +17,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
+          filename: github-metrics.svg
