@@ -142,9 +142,14 @@ Led a Proof of Concept to migrate Electronic Design Automation (EDA) workloads t
 <div align="center">
 
 ![Metrics](./github-metrics.svg)
-![Languages](./github-metrics-langs.svg)
 
 </div>
+
+![Languages](./github-metrics-langs.svg)
+
+![Followers](https://img.shields.io/github/followers/apgosar?label=Followers&style=flat-square&logo=github&color=blue)
+![Stars](https://img.shields.io/github/stars/apgosar?label=Total%20Stars&style=flat-square&logo=github&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=apgosar&style=flat-square&color=blueviolet&label=Profile+Views)
 
 ---
 
